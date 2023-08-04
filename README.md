@@ -15,7 +15,7 @@
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/-python-fffefe?style=flat&logo=python">
-  <img src="https://img.shields.io/badge/-flask-fffefe?style=flat&logo=flask">
+  <img src="https://img.shields.io/badge/-flask-fffefe?style=flat&logo=flask&logoColor=3d3d3d">
   <img src="https://img.shields.io/badge/-mongodb-fffefe?style=flat&logo=mongodb">
   <img src="https://img.shields.io/badge/-Elasticsearch-fffefe?style=flat&logo=elasticsearch&logoColor=4381f0">
 </div>

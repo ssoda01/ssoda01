@@ -24,6 +24,14 @@
 
 <!--START_SECTION:waka-->
 
+```txt
+TypeScript       12 hrs 28 mins  ████████████▓░░░░░░░░░░░░   50.31 %
+Python           7 hrs 14 mins   ███████▒░░░░░░░░░░░░░░░░░   29.22 %
+JSON             1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+JavaScript       58 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+Ezhil            41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+```
+
 <!--END_SECTION:waka-->
 
 [![Ssoda01's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssoda01)](https://github.com/ssoda01)

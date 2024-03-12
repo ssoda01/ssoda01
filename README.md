@@ -1,6 +1,6 @@
 - 🔔 我是 sodako。
 - 🚲 正在为一些非常有趣的项目做微小贡献
-  - 如果你对他们感兴趣，请移动到页面下方的 Organizations 查看
+  - 如果你对他们感兴趣，请移步页面下方的 Organizations 查看
 - 🔧 如果你愿意尝试一下我写的小工具
   - 一个 wxt 框架的浏览器插件
     - [markdown 链接生成器](https://github.com/ssoda01/hello-wxt)
